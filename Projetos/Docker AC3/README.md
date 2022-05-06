@@ -1,5 +1,7 @@
 # docker_postgres
 
+ ![Screenshot](Captura.PNG)
+
 ##para ajustar o ip do banco de dados
 
  docker-compose up
