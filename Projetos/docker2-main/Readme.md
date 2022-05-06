@@ -1,3 +1,5 @@
+ ![Screenshot](Captura.PNG)
+ 
 exercicio de docker com 2 container
 1 - mysql 5.7 
 2 - flask web
